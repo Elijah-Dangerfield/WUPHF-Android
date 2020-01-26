@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "262897004327",
+    "firebase_url": "https://wuphf-hack-mt.firebaseio.com",
+    "project_id": "wuphf-hack-mt",
+    "storage_bucket": "wuphf-hack-mt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262897004327:android:1aa9bacf8516eefcfe0302",
+        "android_client_info": {
+          "package_name": "com.hackmt.wuphf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262897004327-7uf9s6n93bsgmaac1n7qcr1fm2ulo9k1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackmt.wuphf",
+            "certificate_hash": "c312f101f19db4f13d28ebbf6e8aae3e970b12a4"
+          }
+        },
+        {
+          "client_id": "262897004327-1u09fc65j0c0mdat1k9nu8o0hg9pvble.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzpsPDxg2Gh0htKbrZpxmNb273QJCHNB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262897004327-1u09fc65j0c0mdat1k9nu8o0hg9pvble.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
